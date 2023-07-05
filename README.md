@@ -7,6 +7,6 @@ Implemented multi layer neural network for classification. In other words networ
 
 ### Convolutional Neural Network
 Made CNN using torch, numpy etc. with Python. <br />
-Used pretrained VGG-19 convolutional neural network (CNN) and finetune this network to classify the sample images.< br/>
+Used pretrained VGG-19 convolutional neural network (CNN) and finetune this network to classify the sample images.<br/>
 
 The details, results and visuals are written in the reports.
